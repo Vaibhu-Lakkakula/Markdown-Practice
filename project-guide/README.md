@@ -30,8 +30,8 @@ Use a web browser to read the journal on GitHub. For a local copy, install Git a
 Run these commands in a terminal to download this repository, then enter its folder:
 
 ```bash
-git clone https://github.com/Vaibhu-Lakkakula/skills-communicate-using-markdown.git
-cd skills-communicate-using-markdown
+git clone https://github.com/Vaibhu-Lakkakula/markdown-practice.git
+cd markdown-practice
 ```
 
 Open `day-1.md` in your editor to confirm the journal is present. No build or dependency installation is required.
