@@ -1,5 +1,13 @@
 # Daily Learning
 
+## Learning Metrics
+After day $d_1$, I completed $c^2$ practice tasks.
+
+$$
+p = \frac{c}{t} \times 100
+$$
+In this equation, $c$ represents the completed tasks, $t$ is the total available tasks, and $p$ is the final percentage. For example, completing two out of four tasks gives a fifty percent success rate.
+
 ## Morning Planning
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
