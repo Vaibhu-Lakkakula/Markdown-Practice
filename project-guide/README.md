@@ -30,7 +30,7 @@ Use a web browser to read the journal on GitHub. For a local copy, install Git a
 Run these commands in a terminal to download this repository, then enter its folder:
 
 ```bash
-git clone https://github.com/Vaibhu-Lakkakula/markdown-practice.git
+git clone gh repo clone Vaibhu-Lakkakula/Markdown-Practice.git
 cd markdown-practice
 ```
 
