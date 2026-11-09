@@ -17,8 +17,6 @@ A student study log that is for mastering technical writing skills using GitHub 
 - [Installation](#installation)
 - [Usage](#usage)
 
-## Installation
-
 ## Usage
 
 ## Prerequisites
@@ -30,6 +28,6 @@ Use a web browser to read the journal on GitHub. For a local copy, install Git a
 Run these commands in a terminal to download this repository, then enter its folder:
 
 ```bash
-git clone https://github.com/Vaibhu-Lakkakula/Markdown-Practice.git.git
+git clone [https://github.com/Vaibhu-Lakkakula/Markdown-Practice.git](https://github.com/Vaibhu-Lakkakula/Markdown-Practice.git)
 cd Markdown-Practice
 ```
