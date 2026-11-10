@@ -67,6 +67,6 @@ This project is distributed under the [MIT License](../LICENSE). Read the licens
 To create a branch, first go to files and then select new branch. When clicking new branch, rename it to whatever and click enter. When making a pull request, go to the top of GitHub, to the bar of different sections such as code, issues, and pull requests. Go to pull request and click the plus button to create a pull request. Give a name and a description before sending it over.
 
 ## Support
-If help is needed, please contact https://github.com/Vaibhu-Lakkakula/Markdown-Practice/issues
+If help is needed, please contact [issues tab](https://github.com/Vaibhu-Lakkakula/Markdown-Practice/issues)
 Please provide information, such as the lesson number, attempted action, and error message.
 
