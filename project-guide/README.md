@@ -1,3 +1,24 @@
+# Markdown Learning Journal
+
+## Overview
+
+A student study log that is for mastering technical writing skills using GitHub Markdown.
+
+## Features
+
+- Organize daily learning with headings.
+- Track practice tasks with checkboxes.
+- Explain progress using mathematical expressions.
+
+## Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Installation
+
 ## Usage
 
 From the repository folder, display the journal in a terminal with this command. On Windows PowerShell, use `Get-Content day-1.md` instead.
