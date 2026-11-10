@@ -70,3 +70,13 @@ To create a branch, first go to files and then select new branch. When clicking 
 If help is needed, please contact [issues tab](https://github.com/Vaibhu-Lakkakula/Markdown-Practice/issues)
 Please provide information, such as the lesson number, attempted action, and error message.
 
+## Troubleshooting
+how to fix cat: day-1.md: No such file or directory
+Enter the cloned repository folder, and check that the journal exists on the selected branch.
+
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
